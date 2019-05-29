@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+我是练习时间长达两年半的前端练习生，擅长CTRL。
 
-email: agus[at]python.web.id
+email: 1142929692@qq.com

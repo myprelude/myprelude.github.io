@@ -4,7 +4,7 @@ author: hemingming/myprelude
 github: https://github.com/myprelude
 about: 我是练习时间长达两年半的前端练习生，擅长CTRL。
 disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+# google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
@@ -36,8 +36,8 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    # - text: XML Feed
+    #   url: /feed.xml
 
 url: "https://myprelude.github.io"
 baseurl: ""

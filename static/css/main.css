@@ -157,7 +157,10 @@ div.col-sm-3 img.profile-avatar {
 .content img {
   max-width: 100%
 }
-
+#box{
+  padding-left:0;
+  padding-right:0;
+}
 /* Responsive Conditional */
 @media (min-width: 1024px) {
   .fixed-condition {

@@ -32,8 +32,10 @@ share:
   fb_appid: 1749788565247320
 
 urls:
+    - text: 归档
+      url: /category/
     - text: 我
-      url: /about/
+      url: /about/javascript
     # - text: My Projects
     #   url: /projects/
     # - text: XML Feed

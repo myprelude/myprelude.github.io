@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: javascript
-title: javascript
+title: javaScript
 permalink: /category/javascript
 ---

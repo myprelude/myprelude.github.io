@@ -32,7 +32,7 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: 我
       url: /about/
     # - text: My Projects
     #   url: /projects/

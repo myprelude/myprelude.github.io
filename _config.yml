@@ -33,7 +33,7 @@ share:
 
 urls:
     - text: 归档
-      url: /category/javascript/
+      url: /category/javascript
     - text: 我
       url: /about/
     # - text: My Projects

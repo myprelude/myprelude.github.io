@@ -33,9 +33,9 @@ share:
 
 urls:
     - text: 归档
-      url: /category/
+      url: /category/javascript/
     - text: 我
-      url: /about/javascript
+      url: /about/
     # - text: My Projects
     #   url: /projects/
     # - text: XML Feed

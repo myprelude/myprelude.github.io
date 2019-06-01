@@ -135,7 +135,7 @@ const [num,setNum] = useState(0);    // 1
 ```code
 组件已经加载成功+++++++  // hook 函数组件
 ```
-从控制台表象上来看，每次hook类组件更新时都会触发useEffect函数；是不是很像类组件的componentDidUpdate。不要错，`useEffect`就是为函数组件提供componentDidMount和componentDidUpdate这个两个生命周期。但是从上面打印的情况来看的话，页面每次更新都执行``useEffect`有时并不是我们程序需要的我们怎么，例如想在componentDidMount中执行一次Ajax请求的话，我们会发现每次点击按钮都会发一次请求，在性能生会有很大的浪费，如果我们在ajax请求后在次调用`useState`改变页面数据，会发现页面进入了一个死循环。那么如何解决呢？
+从控制台表象上来看，每次hook类组件更新时都会触发useEffect函数；是不是很像类组件的componentDidUpdate。不要错，`useEffect`就是为函数组件提供componentDidMount和componentDidUpdate这个两个生命周期。但是从上面打印的情况来看的话，页面每次更新都执行`useEffect`有时并不是我们程序需要的我们怎么，例如想在componentDidMount中执行一次Ajax请求的话，我们会发现每次点击按钮都会发一次请求，在性能生会有很大的浪费，如果我们在ajax请求后在次调用`useState`改变页面数据，会发现页面进入了一个死循环。那么如何解决呢？
 
 **uesEffect第二个参数**
 

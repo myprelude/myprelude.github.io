@@ -305,12 +305,3 @@ function Parent({ a, b }) {
 }
 {% endhighlight %}
 `useMemo` 也允许你跳过一次子节点的昂贵的重新渲染.
-
-```javascript
-    const memoizedCallback = useCallback(
-    () => {
-        doSomething(a, b);
-    },
-    [a, b],
-    );
-```

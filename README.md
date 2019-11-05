@@ -4,7 +4,7 @@
 > and the search posts using [Super Search](https://github.com/chinchang/super-search)
 
 ### Demo
-* [https://agusmakmun.github.io](https://agusmakmun.github.io)
+* [https://myprelude.github.io](https://myprelude.github.io)
 
 #### Features
 
@@ -69,4 +69,4 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 
 ### Contributing
 
-Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/myprelude.github.io/pulls)!
